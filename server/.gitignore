@@ -1,0 +1,30 @@
+# Dependencies
+/node_modules
+
+# Environment variables
+.env
+
+# Upload directory
+/uploads
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory
+coverage
+
+# Build
+/build
+/dist
+
+# OS files
+.DS_Store
+Thumbs.db 
